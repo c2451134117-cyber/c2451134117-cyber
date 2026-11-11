@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="252" viewBox="0 0 1120 252" role="img" aria-labelledby="title desc">
+  <title id="title">Open-source browser tools</title>
+  <desc id="desc">A browser window connected to a checkmark, in a blue and teal palette.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0b1528"/>
+      <stop offset="1" stop-color="#172a4a"/>
+    </linearGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#3c5885" opacity=".64"/>
+    </pattern>
+    <clipPath id="corners"><rect x="1" y="1" width="1118" height="250" rx="23"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1118" height="250" rx="23" fill="url(#background)" stroke="#314975" stroke-width="2"/>
+  <g clip-path="url(#corners)">
+    <rect x="570" width="550" height="252" fill="url(#dots)"/>
+    <circle cx="928" cy="124" r="160" fill="none" stroke="#3c5885" opacity=".24"/>
+    <circle cx="928" cy="124" r="123" fill="none" stroke="#3c5885" opacity=".31"/>
+  </g>
+  <path d="M56 54h38" fill="none" stroke="#70e2c8" stroke-width="3" stroke-linecap="round"/>
+  <text x="55" y="121" fill="#e7f2ff" font-family="Arial, sans-serif" font-weight="700" font-size="58" letter-spacing="-2.4">Open-source</text>
+  <text x="55" y="183" fill="#80bbff" font-family="Arial, sans-serif" font-weight="700" font-size="58" letter-spacing="-2.4">browser tools.</text>
+  <g transform="translate(661 42)">
+    <rect x="13" y="13" width="295" height="150" rx="14" fill="#3c5885" opacity=".30"/>
+    <rect width="295" height="150" rx="14" fill="#12213a" stroke="#34578b" stroke-width="2"/>
+    <path d="M1 37h293" stroke="#34578b" stroke-width="2"/>
+    <circle cx="20" cy="19" r="4" fill="#6baaff"/>
+    <circle cx="34" cy="19" r="4" fill="#36547d"/>
+    <circle cx="48" cy="19" r="4" fill="#36547d"/>
+    <path d="M72 19h95" stroke="#36547d" stroke-width="5" stroke-linecap="round"/>
+    <path d="m53 66-13 13 13 13m38-26 13 13-13 13m-12-31-14 36" fill="none" stroke="#6baaff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M139 68h108m-108 18h80m-80 18h97m-196 20h122" fill="none" stroke="#36547d" stroke-width="5" stroke-linecap="round"/>
+    <path d="M251 130h73v25" fill="none" stroke="#70e2c8" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="251" cy="130" r="4" fill="#70e2c8"/>
+    <rect x="299" y="143" width="50" height="50" rx="12" fill="#12213a" stroke="#70e2c8" stroke-width="2"/>
+    <path d="m313 168 8 8 15-16" fill="none" stroke="#70e2c8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="153" viewBox="0 0 348 153" role="img" aria-labelledby="title desc">
+<title id="title">LANGUAGES</title><desc id="desc">JavaScript 100.0%</desc>
+
+<style>
+  svg { --bg: #f6f9fc; --line: #cfdae7; --ink: #152840; --muted: #465c75; --accent: #11695c }
+  @media (prefers-color-scheme: dark) {
+    svg { --bg: #101e2e; --line: #344b63; --ink: #edf4ff; --muted: #a4b9d1; --accent: #82e5d1 }
+  }
+</style>
+<rect x=".5" y=".5" width="347" height="152" rx="13" fill="var(--bg)" stroke="var(--line)"/>
+<g font-family="system-ui, -apple-system, sans-serif">
+  <path d="M20 23h12" stroke="var(--accent)" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="42" y="28" font-size="12" font-weight="700" letter-spacing="1" fill="var(--accent)">LANGUAGES</text>
+  <text x="20" y="51" font-size="12" fill="var(--muted)">Featured repos · GitHub Linguist bytes</text>
+  <clipPath id="bar"><rect x="20" y="69" width="308" height="12" rx="6"/></clipPath>
+<rect clip-path="url(#bar)" x="20.0000" y="69" width="308.0000" height="12" fill="#e6b945"/>
+<circle cx="24" cy="103" r="4" fill="#e6b945"/>
+<text x="34" y="107" font-size="12" fill="var(--ink)">JavaScript 100.0%</text>
+</g>
+</svg>

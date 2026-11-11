@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yanzhou Chen
 
-<!--
-**c2451134117-cyber/c2451134117-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shenzhen University** · JavaScript · Browser automation
 
-Here are some ideas to get you started:
+I share open-source browser tools built for specific workflows, with an emphasis on clear setup and predictable behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+| Project | What it does |
+| --- | --- |
+| [Physics Lab Pre-exam](https://github.com/c2451134117-cyber/physics-lab-preexam) | Tampermonkey userscripts for two university physics-lab pre-study platforms, with question matching and safeguards against duplicate submissions. |
+| [Douyin Fire Helper](https://github.com/c2451134117-cyber/douyin-fire-helper) | An MIT-licensed userscript adapted from [ScriptCat-Douyin-Fire-Helper](https://github.com/dr-190/ScriptCat-Douyin-Fire-Helper), with weekday message templates and retries for failed chats. |
+
+## Contributing
+
+Bug reports, reproducible examples, and pull requests are welcome. If you run into a problem, please open an issue in the relevant repository and include the page, browser, and script version.
